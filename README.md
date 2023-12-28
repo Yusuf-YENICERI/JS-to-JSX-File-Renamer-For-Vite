@@ -8,7 +8,8 @@ This Python script checks files in a specified folder and its subfolders for the
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Yusuf-YENICERI/JSX-TSX-Renamer-For-Vite.git```
+git clone https://github.com/Yusuf-YENICERI/JSX-TSX-Renamer-For-Vite.git
+```
    
 2. Navigate to the script's directory:
 
